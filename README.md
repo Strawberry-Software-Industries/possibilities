@@ -1,1 +1,1 @@
-# possabilities
+# possibility
