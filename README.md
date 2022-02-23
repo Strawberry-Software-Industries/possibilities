@@ -5,8 +5,9 @@
 possibilities is a simple python framework to easily use sys.argv!
 
 # How can I install possibilities?
+-
 
-
+# How to use possibilities?
 ```py
 from possibilities.main  import  add_possability, check, _Empty__  
 
